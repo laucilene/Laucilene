@@ -1,8 +1,8 @@
 ## Olá!! Eu sou Laucilene Rodrigues 👋
-<img src="https://img.freepik.com/vetores-gratis/computador-portatil_53876-43918.jpg?w=740&t=st=1695913884~exp=1695914484~hmac=b0b497b5343c2bb1a2153935428235c2278a153cf1ac2c5db8a27c54ff8efbc6" width="300px" heigth="300px">
+<img src="https://img.freepik.com/vetores-gratis/computador-portatil_53876-43918.jpg?w=740&t=st=1695913884~exp=1695914484~hmac=b0b497b5343c2bb1a2153935428235c2278a153cf1ac2c5db8a27c54ff8efbc6" width="300%" heigth="100px">
 
 ### Conecte-se comigo 
-[![Meu_perfil_da_dio](https://img.shields.io/badge/Meu_Perfil_Da_Dio-C71585?style=for-the-badge)](https://www.dio.me/users/laucilene97d).
+[![Meu_perfil_da_dio](https://img.shields.io/badge/Meu_Perfil_Da_Dio-C71585?style=for-the-badge)](https://www.dio.me/users/laucilene97d)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/laucilene-rodrigues/) 
 ### Habilidades 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor)](https://git.com/laucilene)
