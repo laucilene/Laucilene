@@ -1,4 +1,4 @@
-## Olá!! Eu sou a Laucilene Rodrigues 👋
+## Olá!! Eu sou Laucilene Rodrigues 👋
 <img src="https://img.freepik.com/vetores-gratis/computador-portatil_53876-43918.jpg?w=740&t=st=1695913884~exp=1695914484~hmac=b0b497b5343c2bb1a2153935428235c2278a153cf1ac2c5db8a27c54ff8efbc6" width="100%" heigth="20%">
 
 ### Conecte-se comigo 
