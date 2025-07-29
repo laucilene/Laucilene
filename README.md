@@ -1,5 +1,5 @@
 ## Olá!! Eu sou Laucilene Ferraz 👋
-<img src="https://1drv.ms/v/c/e9cc0c942602a771/EQk5kjAxC6ZNu0fDIMmtQIoBvVWhxs2c0sZxqFUg_hzFcA?e=8qEkEe" width="100%" heigth="20%">
+<img src="dev-typing-cartoon.mp4" width="100%" heigth="20%">
 
 ### Conecte-se comigo 
 [![Meu_perfil_da_dio](https://img.shields.io/badge/Meu_Perfil_Da_Dio-C71585?style=for-the-badge)](https://www.dio.me/users/laucilene97d)
