@@ -1,5 +1,6 @@
 ## Olá!! Eu sou Laucilene Ferraz 👋
 
+https://github.com/user-attachments/assets/3406c99e-4789-4c76-b99a-dd70bf9bcb52
 
 ### Conecte-se comigo 
 [![Meu_perfil_da_dio](https://img.shields.io/badge/Meu_Perfil_Da_Dio-C71585?style=for-the-badge)](https://www.dio.me/users/laucilene97d)
